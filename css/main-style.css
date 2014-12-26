@@ -1,0 +1,112 @@
+/* -*- css -*- */
+html {
+    margin: 0;
+    padding: 0;
+}
+body { 
+    font: 100% georgia, sans-serif;
+    line-height: 1.5;
+    color: #555753; 
+    margin: 0; 
+    padding-top: 20px;
+    padding-left: 15px;
+    padding-rigth: 15px;
+}
+#content-block {
+    border-top-width: thin;
+    border-right-width: thin;
+    border-bottom-width: thin;
+    border-left-width: thin;
+    border-top-style: solid;
+    border-left-style: solid;
+    border-top-color: #666666;
+    border-right-color: #666666;
+    border-bottom-color: #666666;
+    border-left-color: #666666;
+    padding: 10px 0px 0px 10px;
+    margin-right: 300px;
+    min-height: 320px;
+}
+#content-title {
+    font-size: x-large;
+    font-style: normal;
+    font-weight: bold;
+    color: #CC0000;
+    border-top: thin none #000000;
+    border-right: thin solid #000000;
+    border-bottom: thin solid #000000;
+    border-left: thin none #000000;
+    padding-left: 10px;
+}
+#content-text {
+    padding-top: 15px;
+    padding-left: 5px;
+}
+#menu-block {
+    width: 240px;
+    margin-right: 30px;
+    position: absolute;
+    right: 0px;
+}
+.menu-item {
+    width: auto;
+    border-top-width: 1px;
+    border-right-width: 1px;
+    border-bottom-width: 1px;
+    border-left-width: 1px;
+    border-top-style: none;
+    border-bottom-style: solid;
+    border-left-style: solid;
+    border-top-color: #333333;
+    border-right-color: #333333;
+    border-bottom-color: #333333;
+    border-left-color: #333333;
+    padding: 2px 8px;
+    margin-bottom: 20px;
+}
+.menu-item a { 
+    font-weight: bold; 
+}
+.menu-item a:link, .menu-item a:visited {
+    text-decoration: none; 
+    color: #3300AA
+}
+.menu-item a:hover, .menu-item a:active { 
+    text-decoration: underline; 
+}
+#about-block {
+    float: buttom;
+    margin-top: 20px;
+}
+#about-block a { 
+    font-weight: bold; 
+}
+#about-block a:link, #about-block a:visited {
+    text-decoration: none; 
+    color: #3300AA
+}
+#about-block a:hover, #about-block a:active { 
+    text-decoration: underline; 
+}
+h1 {
+	font-size: x-large;
+	font-style: normal;
+	font-weight: bold;
+	color: #CC0000;
+	border-top: thin none #000000;
+	border-right: thin solid #000000;
+	border-bottom: thin solid #000000;
+	border-left: thin none #000000;
+	padding-left: 10px;
+}
+
+h2 {
+	font-size: large;
+	color: #990000;
+}
+h3 {
+	font-size: medium;
+	color: #666666;
+	font-style: italic;
+}
+

@@ -1,0 +1,2 @@
+destination: /usr/share/nginx/www/
+excerpt_separator: "\n\n"
