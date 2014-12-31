@@ -1,2 +1,9 @@
 destination: /usr/share/nginx/www/
 excerpt_separator: "\n\n"
+
+name: "kim's home site"
+url: "https://mndet.net"
+author: "Nikolay Merinov"
+rss_path: "/"
+rss_name: "rss.xml"
+rss_post_limit: 20
