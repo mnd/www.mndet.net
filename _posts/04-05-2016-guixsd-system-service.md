@@ -122,8 +122,3 @@ Debugging
     scheme@(guile-user)> (use-modules (mnd services irssi))
 
 **TODO** Some more usefull debug suggestions?
-
-Comments
---------
-
-Feel free to comment on [pump.io](https://io.mndet.net/mnd/note/7AVuJTBjTY6YvJmikoXG_A)

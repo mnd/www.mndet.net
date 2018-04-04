@@ -13,11 +13,4 @@ FLOSS [SDCC](http://sdcc.sourceforge.net/) compiler and
 code to STM8L-Discovery boart through st-link interface. 
 
 In next week I will continue work with describing stm8l registers and write
-some examples. In first time I plans port my previos
-[experiments](https://io.mndet.net/mnd/image/7uPXLIATT-eZw1nvuDmBMw) from STM32L
-to STM8L.
-
-Comments
---------
-
-Feel free to comment on [pump.io](https://io.mndet.net/mnd/note/_MteLX31SymjjhnHjkow1A)
+some examples.
