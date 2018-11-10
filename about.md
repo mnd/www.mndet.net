@@ -2,7 +2,7 @@
 layout: default
 title: About
 ---
-My name is Nikolay Merinov. I'm programmer from Russia, Yekaterinburg.
+My name is Nikolai Merinov. I'm programmer from Russia, Yekaterinburg.
 
 Resources
 ---------
@@ -11,5 +11,5 @@ Resources
 
 Contacts
 --------
-- e-mail: [nikolay.merinov@member.fsf.org](mailto:nikolay.merinov@member.fsf.org)
+- e-mail: [nikolai.merinov@member.fsf.org](mailto:nikolai.merinov@member.fsf.org)
 - skype: [nikolay.merinov5](skype:nikolay.merinov5)

@@ -1,9 +1,9 @@
 destination: /usr/share/nginx/www/
 excerpt_separator: "\n\n"
 
-name: "kim's home site"
+name: "mnd's home site"
 url: "https://mndet.net"
-author: "Nikolay Merinov"
+author: "Nikolai Merinov"
 
 gems:
   - jekyll-feed
