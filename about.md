@@ -13,3 +13,4 @@ Contacts
 --------
 - e-mail: [nikolai.merinov@member.fsf.org](mailto:nikolai.merinov@member.fsf.org)
 - skype: [nikolay.merinov5](skype:nikolay.merinov5)
+- phone: [+7(912)229-25-64](tel:+7-912-229-25-64)
