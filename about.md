@@ -6,7 +6,7 @@ My name is Nikolai Merinov. I'm programmer from Russia, Yekaterinburg.
 
 Resources
 ---------
-- mastodon: [@mnd@mastodon.at](https://mastodon.at/@mnd)
+- activitypub fediverse: [@mnd@cloud.mndet.net](https://cloud.mndet.net/apps/social/@mnd)
 - github: [https://github.com/mnd](https://github.com/mnd)
 
 Contacts
