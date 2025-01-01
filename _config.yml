@@ -1,9 +1,8 @@
-destination: /usr/share/nginx/www/
 excerpt_separator: "\n\n"
 
 name: "mnd's home site"
 url: "https://mndet.net"
 author: "Nikolai Merinov"
 
-gems:
+plugins:
   - jekyll-feed

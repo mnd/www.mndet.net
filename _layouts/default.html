@@ -22,7 +22,7 @@
             <img src="/assets/rss.gif" alt="rss" width="36" height="14">
           </a>
         </h2>
-        {% for post in site.posts limit 3 %}
+        {% for post in site.posts limit:3 %}
         <div class="menu-item">
           <a href="{{ post.url }}"> {{ post.title }} </a>
         </div>
